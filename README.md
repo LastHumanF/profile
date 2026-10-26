@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo_lasthuman_f_2mb.png" alt="LastHuman Foundation" width="300">
+<img src="lasthuman.png" alt="LastHuman Foundation" width="300">
 
 **Working toward the responsible development of artificial intelligence**
 
